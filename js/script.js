@@ -86,6 +86,7 @@ window.addEventListener('DOMContentLoaded', () => {
 	}
 
 	function createLikeFilms() {
+
 			console.log('Добавляем любимый фильм');
 	}
 
